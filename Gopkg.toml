@@ -1,0 +1,6 @@
+ignored = ["github.com/instrument/go-zenefits/*"]
+
+[prune]
+  go-tests = true
+  unused-packages = true
+
